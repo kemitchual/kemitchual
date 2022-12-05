@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448058355941",
+    "project_id": "twittergoroute",
+    "storage_bucket": "twittergoroute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448058355941:android:a2d2c4a0f94fd23cc7240c",
+        "android_client_info": {
+          "package_name": "com.example.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448058355941-0o0djljku1sd41gni05ush5n03ccl5la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbJty5A_jYNS5j0bOe9l3G6S7P7Yda16c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448058355941-0o0djljku1sd41gni05ush5n03ccl5la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
